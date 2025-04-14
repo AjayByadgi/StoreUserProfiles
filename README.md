@@ -11,7 +11,7 @@
 
 Not hosted as a website yes but can be run by 
 First install the necessary dependcies npm, Springboot, react , react dropzone, etc, whatever is needed. 
-
+Have an AmazonConfig.java file with the necessary amazon credentials for the S3 bucket. 
 Then run the front end by first traversing to the directory image-upload-aws/src/main/frontend and then running the command "npm start"
 Then run the back end by running the java main image-upload-aws/src/main/java and running Main.java
 
