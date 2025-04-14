@@ -5,3 +5,13 @@
 * Uses React for front end and Java Spring Boot for the back end and Amazon S3 for file storage, upload, and dowload*
 
 * Might add functionality for different type of files such as PDFs for each user, maybe also login and sign up * 
+
+
+** HOW TO RUN ** 
+
+Not hosted as a website yes but can be run by 
+First install the necessary dependcies npm, Springboot, react , react dropzone, etc, whatever is needed. 
+
+Then run the front end by first traversing to the directory image-upload-aws/src/main/frontend and then running the command "npm start"
+Then run the back end by running the java main image-upload-aws/src/main/java and running Main.java
+
